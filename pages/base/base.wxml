@@ -1,0 +1,14 @@
+<!--pages/base/base.wxml-->
+<view>
+  <button bindtap="articleDemo">article</button>
+  <button bindtap="badgeDemo">badge</button>
+  <button bindtap="flexDemo">flex</button>
+  <button bindtap="footerDemo">footer</button>
+  <button bindtap="galleryDemo">gallery</button>
+  <button bindtap="gridDemo">grid</button>
+  <button bindtap="iconsDemo">icons</button>
+  <button bindtap="loadmoreDemo">loadmore</button>
+  <button bindtap="panelDemo">panel</button>
+  <button bindtap="previewDemo">preview</button>
+  <button bindtap="progressDemo">progress</button>
+</view>

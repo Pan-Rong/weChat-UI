@@ -1,0 +1,4 @@
+/* pages/operate/toast/toast.wxss */
+page{
+    background-color: #FFFFFF;
+}

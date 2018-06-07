@@ -1,0 +1,4 @@
+/* pages/operate/picker/picker.wxss */
+page{
+    background-color: #FFFFFF;
+}

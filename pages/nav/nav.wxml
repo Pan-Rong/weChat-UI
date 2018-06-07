@@ -1,0 +1,6 @@
+<!--pages/nav/nav.wxml-->
+<view>
+  <button bindtap="navbarDemo">navbar</button>
+  <button bindtap="tabbarDemo">tabbar</button>
+</view>
+

@@ -1,0 +1,4 @@
+/* pages/operate/dialog/dialog.wxss */
+page{
+    background-color: #FFFFFF;
+}

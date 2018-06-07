@@ -1,0 +1,8 @@
+<!--pages/operate/operate.wxml-->
+<view>
+  <button bindtap="actionsheetDemo">actionsheet</button>
+  <button bindtap="dialogDemo">dialog</button>
+  <button bindtap="msgDemo">msg</button>
+  <button bindtap="pickerDemo">picker</button>
+  <button bindtap="toastDemo">toast</button>
+</view>

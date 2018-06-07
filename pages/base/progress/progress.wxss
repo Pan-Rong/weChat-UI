@@ -1,0 +1,4 @@
+/* pages/base/progress/progress.wxss */
+.weui-progress{
+    margin-bottom: 24px;
+}

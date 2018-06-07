@@ -1,0 +1,4 @@
+/* pages/operate/actionsheet/actionsheet.wxss */
+page{
+    background-color: #FFFFFF;
+}

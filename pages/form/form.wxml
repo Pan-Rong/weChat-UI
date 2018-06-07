@@ -1,0 +1,8 @@
+<!--pages/form/form.wxml-->
+<view>
+  <button bindtap="buttonDemo">button</button>
+  <button bindtap="listDemo">list</button>
+  <button bindtap="listDemo">input</button>
+  <button bindtap="sliderDemo">slider</button>
+  <button bindtap="uploaderDemo">uploader</button>
+</view>

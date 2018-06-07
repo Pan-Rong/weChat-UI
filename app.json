@@ -1,0 +1,74 @@
+{
+  "pages": [
+    "pages/base/base",
+    "pages/nav/nav",
+    "pages/operate/operate",
+    "pages/form/form",
+    "pages/search/search",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/form/button/button",
+    "pages/form/list/list",
+    "pages/form/input/input",
+    "pages/form/slider/slider",
+    "pages/form/uploader/uploader",
+    "pages/base/article/article",
+    "pages/base/badge/badge",
+    "pages/base/flex/flex",
+    "pages/base/footer/footer",
+    "pages/base/gallery/gallery",
+    "pages/base/grid/grid",
+    "pages/base/icons/icons",
+    "pages/base/loadmore/loadmore",
+    "pages/base/panel/panel",
+    "pages/base/preview/preview",
+    "pages/base/progress/progress",
+    "pages/operate/actionsheet/actionsheet",
+    "pages/operate/dialog/dialog",
+    "pages/operate/msg/msg",
+    "pages/operate/picker/picker",
+    "pages/operate/toast/toast",
+    "pages/nav/tabbar/tabbar",
+    "pages/nav/navbar/navbar",
+    "pages/search/searchbar/searchbar",
+    "pages/operate/msg/msg_fail",
+    "pages/operate/msg/msg_success"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#47a86c",
+    "navigationBarTitleText": "WeUI for 小程序",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#fff",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "color": "#686868",
+    "selectedColor": "#47a86c",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/base/base",
+        "text": "基础"
+      },
+      {
+        "pagePath": "pages/form/form",
+        "text": "表单"
+      },
+      {
+        "pagePath": "pages/nav/nav",
+        "text": "导航"
+      },
+      {
+        "pagePath": "pages/operate/operate",
+        "text": "操作"
+      },
+      {
+        "pagePath": "pages/search/search",
+        "text": "搜索"
+      }
+    ]
+  },
+  "debug": true
+}
